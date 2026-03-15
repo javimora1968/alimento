@@ -1,0 +1,1 @@
+alter table dba.cs_formulas modify bodega_asociada not null;

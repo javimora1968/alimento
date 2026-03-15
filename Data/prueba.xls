@@ -1,0 +1,47 @@
+<title></title>
+<STYLE TYPE="text/css">
+<!--
+.dw0{COLOR:#000000;BACKGROUND:#ffffff;FONT:9pt "Arial", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:bold;TEXT-DECORATION:none}
+.dw8{COLOR:#000000;BACKGROUND:#ffffff;FONT:9pt "Arial", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none}
+.dw0{COLOR:#000000;BACKGROUND:#ffffff;FONT:9pt "Arial", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none}
+.dw0{COLOR:#000000;BACKGROUND:#ffffff;FONT:9pt "Arial", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:bold;TEXT-DECORATION:none}
+.dw10{COLOR:#000000;BACKGROUND:#ffffff;FONT:10pt "Times New Roman", serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none}
+.dw11{COLOR:#000000;BACKGROUND:#ffffff;FONT:10pt "Times New Roman", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none}
+.dw15{COLOR:#000000;BACKGROUND:#ffffff;FONT:10pt "Times New Roman", serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none}
+-->
+</STYLE>
+<table>
+<tr><th CLASS=dw0 ALIGN=left>Sistema de Costeo de Producción<th><th><th><th><th><th><th><th CLASS=dw8 ALIGN=right>Fecha : <th CLASS=dw8 ALIGN=right>15/07/2004
+<tr><th CLASS=dw0 ALIGN=left>INCUBADORA SANTANDER S.A.<th><th><th><th><th><th><th><th CLASS=dw8 ALIGN=right>Hora : <th CLASS=dw8 ALIGN=right>11:36:10 AM
+<tr><th CLASS=dw0 ALIGN=left>JAVIER ENRIQUE MORA DIAZ<th><th><th><th><th><th><th><th CLASS=dw8 ALIGN=right>Página 1 de 1<th>
+<tr><th CLASS=dw0 ALIGN=left>Listado de Programación de Alimento Para la Planta<th><th><th><th><th><th><th><th><th>
+<tr><th CLASS=dw0 ALIGN=center>Mes:<th CLASS=dw0 ALIGN=left>6<th CLASS=dw0 ALIGN=center>Año:<th CLASS=dw0 ALIGN=left>2004<th CLASS=dw0 ALIGN=left>Fecha  Inicio:<th><th CLASS=dw0 ALIGN=left>Jun-07-2004<th CLASS=dw0 ALIGN=left>Fecha Fin:<th CLASS=dw0 ALIGN=left>Jun-12-2004<th>
+<tr><th><th CLASS=dw0 ALIGN=center>Fórmula<th><th><th><th CLASS=dw0 ALIGN=center>Bultos<th><th CLASS=dw0 ALIGN=center>Kilos<th CLASS=dw0 ALIGN=center>Costo<th>
+<tr><td CLASS=dw10>MAMP060<td CLASS=dw11>CALCIO GRANO 6<td><td><td><td CLASS=dw15 ALIGN=right>6<td><td CLASS=dw15 ALIGN=right>240<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTCI130<td CLASS=dw11>LEVANTE POLLA LANZA SC<td><td><td><td CLASS=dw15 ALIGN=right>280<td><td CLASS=dw15 ALIGN=right>11,200<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTCI161<td CLASS=dw11>POSPICO PONEDORA LANZA ROJA<td><td><td><td CLASS=dw15 ALIGN=right>2,120<td><td CLASS=dw15 ALIGN=right>84,800<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTCI171<td CLASS=dw11>FASE 1 PONEDORA LANZA ROJA<td><td><td><td CLASS=dw15 ALIGN=right>1,226<td><td CLASS=dw15 ALIGN=right>49,040<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGA501<td CLASS=dw11>PRODUCCION LANZA 80<td><td><td><td CLASS=dw15 ALIGN=right>25<td><td CLASS=dw15 ALIGN=right>1,000<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR111<td CLASS=dw11>PREINICIACI POLLIT LANZA SC GR<td><td><td><td CLASS=dw15 ALIGN=right>275<td><td CLASS=dw15 ALIGN=right>11,000<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR120<td CLASS=dw11>INICIACION POLLITA LANZA SC GR<td><td><td><td CLASS=dw15 ALIGN=right>794<td><td CLASS=dw15 ALIGN=right>31,760<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR130<td CLASS=dw11>LEVANTE POLLA LANZA SC GR<td><td><td><td CLASS=dw15 ALIGN=right>1,336<td><td CLASS=dw15 ALIGN=right>53,440<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR134<td CLASS=dw11>LEVANTE REP PESADA GR<td><td><td><td CLASS=dw15 ALIGN=right>125<td><td CLASS=dw15 ALIGN=right>5,000<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR151<td CLASS=dw11>PREPICO PONEDORA LANZA ROJA GRANEL<td><td><td><td CLASS=dw15 ALIGN=right>1,920<td><td CLASS=dw15 ALIGN=right>76,800<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR152<td CLASS=dw11>PREPICO LANZA JAULA GRANEL<td><td><td><td CLASS=dw15 ALIGN=right>4,424<td><td CLASS=dw15 ALIGN=right>176,960<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR155<td CLASS=dw11>PREPICO REPRODUCTORA PESADA GR<td><td><td><td CLASS=dw15 ALIGN=right>981<td><td CLASS=dw15 ALIGN=right>39,240<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR157<td CLASS=dw11>POSPICO REPRODUCTORA LIVIANA GRANEL<td><td><td><td CLASS=dw15 ALIGN=right>225<td><td CLASS=dw15 ALIGN=right>9,000<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR161<td CLASS=dw11>POSPICO PON.LANZA ROJA  GRANEL<td><td><td><td CLASS=dw15 ALIGN=right>1,150<td><td CLASS=dw15 ALIGN=right>46,000<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR162<td CLASS=dw11>POSPICO LANZA JAULA GRANEL<td><td><td><td CLASS=dw15 ALIGN=right>6,459<td><td CLASS=dw15 ALIGN=right>258,360<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR174<td CLASS=dw11>FASE 1 REPRODUCTORA PESADA GR<td><td><td><td CLASS=dw15 ALIGN=right>2,066<td><td CLASS=dw15 ALIGN=right>82,640<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTGR176<td CLASS=dw11>FASE 1 LANZA JAULA SC GRANEL<td><td><td><td CLASS=dw15 ALIGN=right>4,492<td><td CLASS=dw15 ALIGN=right>179,680<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTRL111<td CLASS=dw11>PREINICIACION POLLITA ISSA CC<td><td><td><td CLASS=dw15 ALIGN=right>45<td><td CLASS=dw15 ALIGN=right>1,800<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTRL153<td CLASS=dw11>PREPICO REPRODUCTORA LIVIANA<td><td><td><td CLASS=dw15 ALIGN=right>45<td><td CLASS=dw15 ALIGN=right>1,800<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTRL157<td CLASS=dw11>POSPICO REPRODUCTORA LIVIANA<td><td><td><td CLASS=dw15 ALIGN=right>180<td><td CLASS=dw15 ALIGN=right>7,200<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTRP123<td CLASS=dw11>INICIACION REPRODUCTORA PESADA<td><td><td><td CLASS=dw15 ALIGN=right>135<td><td CLASS=dw15 ALIGN=right>5,400<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTRP124<td CLASS=dw11>INICIACION REPRODUCTORA PESADA CC<td><td><td><td CLASS=dw15 ALIGN=right>135<td><td CLASS=dw15 ALIGN=right>5,400<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTRP134<td CLASS=dw11>LEVANTE REPRODUCTORA PESADA<td><td><td><td CLASS=dw15 ALIGN=right>1,215<td><td CLASS=dw15 ALIGN=right>48,600<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTRP155<td CLASS=dw11>PREPICO REPRODUCTORA PESADA<td><td><td><td CLASS=dw15 ALIGN=right>160<td><td CLASS=dw15 ALIGN=right>6,400<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTRP174<td CLASS=dw11>FASE 1 REPRODUCTORA PESADA<td><td><td><td CLASS=dw15 ALIGN=right>207<td><td CLASS=dw15 ALIGN=right>8,280<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><td CLASS=dw10>PTRP191<td CLASS=dw11>MACHO REPRODUCTOR<td><td><td><td CLASS=dw15 ALIGN=right>255<td><td CLASS=dw15 ALIGN=right>10,200<td CLASS=dw15 ALIGN=right>$0.00<td>
+<tr><th><th><th><th><th CLASS=dw0 ALIGN=left>Totales:<th CLASS=dw15 ALIGN=right>30,281<th><th CLASS=dw15 ALIGN=right>1,211,240<th CLASS=dw15 ALIGN=right>$0.00<th>
+</table>

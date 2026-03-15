@@ -1,0 +1,1 @@
+alter table dba.cs_encab_p_alissa modify  bodega_asociada not null;

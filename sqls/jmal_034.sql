@@ -1,0 +1,1 @@
+alter table dba.cs_items_p_alissa modify  id_bodega not null;

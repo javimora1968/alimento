@@ -1,0 +1,1 @@
+alter table dba.cs_costos_distribuir modify id_bodega not null;
